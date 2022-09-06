@@ -108,3 +108,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+github: [metadata]
+repository: cvis2022/cvis2022.github.io
+url: "https://cvis2022.github.io/"
+
+google_analytics: G-0LTH7MK5S6
