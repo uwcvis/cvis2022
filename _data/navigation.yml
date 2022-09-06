@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /home/
   - title: "Registration"
     url: /registration/
   - title: "2022 Technical Program & Paper Awards"
