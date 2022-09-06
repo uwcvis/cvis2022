@@ -1,9 +1,14 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /home/
+  - title: "Registration"
+    url: /registration/
+  - title: "2022 Technical Program & Paper Awards"
+    url: /program/
+  - title: "Call for Papers"
+    url: /call-for-papers/
+  - title: "Organizing Committee"
+    url: /organizing-committee/
+  - title: "Past Keynotes"
+    url: /past-keynotes/
+
