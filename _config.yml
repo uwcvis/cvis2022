@@ -110,3 +110,5 @@ tag_archive:
   path: /tags/
 
 github: [metadata]
+repository: cvis2022/cvis2022.github.io
+url: "https://cvis2022.github.io/"
