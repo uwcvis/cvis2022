@@ -1,12 +1,12 @@
 main:
   - title: "Registration"
-    url: /registration/
+    url: /registration
   - title: "2022 Technical Program & Paper Awards"
-    url: /program/
+    url: /program
   - title: "Call for Papers"
-    url: /call-for-papers/
+    url: /call-for-papers
   - title: "Organizing Committee"
-    url: /organizing-committee/
+    url: /organizing-committee
   - title: "Past Keynotes"
-    url: /past-keynotes/
+    url: /past-keynotes
 
