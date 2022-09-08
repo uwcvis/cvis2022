@@ -1,7 +1,7 @@
 main:
   - title: "Registration"
     url: /registration
-  - title: "2022 Technical Program & Paper Awards"
+  - title: "Technical Program & Paper Awards"
     url: /program
   - title: "Call for Papers"
     url: /call-for-papers
