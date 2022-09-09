@@ -9,7 +9,7 @@ permalink: /program
 toc: true
 ---
 
-# CVIS 2021 Paper Awards
+# CVIS 2022 Paper Awards
 
 BEST AI PAPER AWARD
 
