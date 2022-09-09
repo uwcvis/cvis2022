@@ -37,7 +37,7 @@ include, but are not limited to:
 
 # ​Important Dates
 
-{{ site.data.important_dates[0].excerpt | markdownify }}
+{% include table.html data="important_dates" %}
 
 # Poster Presentation
 Accept-poster papers are required to be present in person at DC 1301 on campus of **University of Waterloo**.

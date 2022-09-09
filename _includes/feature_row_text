@@ -32,6 +32,10 @@
             </div>
           {% endif %}
 
+          {% if f.table %}
+            {% include table.html data=f.table %}
+          {% endif %}
+
           {% if f.url %}
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
