@@ -15,7 +15,7 @@ toc: true
   1. Create New Account (if needed). 
   2. Logout. 
   3. Login by using the URL of CVIS 2022 at CMT. 
-  4. Select a track, then create a new submission.
+  4. Create a new submission.
   
 ## Topics of interest
 include, but are not limited to:
