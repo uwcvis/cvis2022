@@ -7,6 +7,8 @@ main:
     url: /call-for-papers
   - title: "Organizing Committee"
     url: /organizing-committee
+  - title: "Keynote Speakers"
+    url: /keynotes
   - title: "Past Keynotes"
     url: /past-keynotes
 
