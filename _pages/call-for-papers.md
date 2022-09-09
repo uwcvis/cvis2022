@@ -40,6 +40,6 @@ include, but are not limited to:
 {{ site.data.important_dates[0].excerpt | markdownify }}
 
 # Poster Presentation
-Accept-poster papers are required to be present in person at DC 1301 on campus of **University of Waterloo**
+Accept-poster papers are required to be present in person at DC 1301 on campus of **University of Waterloo**.
 A poster template can be downloaded here: [poster template](https://docs.google.com/presentation/d/13DWwser0PpAAf2ovwkDqwRDEuJ6ERlvC/edit?usp=sharing&ouid=106340322616558895574&rtpof=true&sd=true).
 
