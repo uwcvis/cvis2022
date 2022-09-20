@@ -62,9 +62,6 @@ author:
 
 footer:
   links:
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "mailto:uw.viplab@gmail.com"
 
 atom_feed:
   hide: true
