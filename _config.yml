@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CVIS 2022
-email:
+email: uw.viplab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   8th Annual Conference on Vision and Intelligent Systems
 twitter_username: username
@@ -62,6 +62,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:uw.viplab@gmail.com"
 
 atom_feed:
   hide: true
