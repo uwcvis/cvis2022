@@ -8,13 +8,13 @@ header:
 permalink: /keynotes
 toc: true
 keynotes:
-  - title: Zhou Zhang
+  - title: Dr. Zhou Zhang
     time: 
     url: 
     image: https://digitalag.bse.wisc.edu/wp-content/uploads/sites/1003/2019/03/Zhang-3-300x300.png
     abstract: 
     author:
-      name: Zhou Zhang
+      name: Dr. Zhou Zhang
       description:
         "Assistant Professor, University of Wisconsin-Madison, USA"
       bio:
