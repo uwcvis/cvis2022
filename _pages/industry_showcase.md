@@ -11,7 +11,7 @@ gallery:
     alt: "sportlogiq"
     title: "sportlogiq"
   - url: https://miovision.com
-    image_path: assets/images/miovision.jpeg
+    image_path: assets/images/miovision.jpg
     alt: "miovision"
     title: "miovision"
 ---
