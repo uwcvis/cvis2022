@@ -6,6 +6,10 @@ gallery:
     image_path: assets/images/waterlooai_logo.png
     alt: "WaterlooAI"
     title: "WaterlooAI"
+  - url: https://miovision.com
+    image_path: assets/images/miovision.jpeg
+    alt: "miovision"
+    title: "miovision"
   - url: https://sportlogiq.com/en/
     image_path: assets/images/sportlogiq.png
     alt: "sportlogiq"
