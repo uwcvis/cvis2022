@@ -1,5 +1,5 @@
 ---
-title: Industral Showcase
+title: Industrial Showcases
 permalink: /industrial-showcase
 gallery:
   - url: https://uwaterloo.ca/artificial-intelligence-institute/
