@@ -5,10 +5,12 @@ main:
     url: /program
   - title: "Call for Papers"
     url: /call-for-papers
-  - title: "Organizing Committee"
-    url: /organizing-committee
   - title: "Keynote Speakers"
     url: /keynotes
+  - title: "Industrial Showcase"
+    url: /industrial-showcase
+  - title: "Organizing Committee"
+    url: /organizing-committee
   - title: "Past Keynotes"
     url: /past-keynotes
 
