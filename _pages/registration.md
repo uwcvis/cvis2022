@@ -14,3 +14,5 @@ Registration for CVIS 2022 is free of charge.
 
 
 Please select the type of your registration (academia, industry/government, or others) and submit the registration form in the link above.
+
+See [Call for Papers](/call-for-papers) for paper submission
