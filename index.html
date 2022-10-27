@@ -49,11 +49,12 @@ intro:
 important_dates:
   - title: "Important Dates"
     table: "important_dates"
-sponsors:
+sponsors-plat:
   - url: https://appliedbrainresearch.com/
     image_path: assets/images/ABR.png
     alt: "appliedbrainresearch"
     title: "appliedbrainresearch"
+sponsors-gold:
   - url: https://uwaterloo.ca/artificial-intelligence-institute/
     image_path: assets/images/waterlooai_logo.png
     alt: "WaterlooAI"
@@ -62,6 +63,7 @@ sponsors:
     image_path: https://logos-world.net/wp-content/uploads/2021/03/TD-Bank-Logo-700x394.png
     alt: "TD"
     title: "TD"
+sponsors-silver:
   - url: https://uwaterloo.ca/vision-image-processing-lab/
     image_path: https://uwaterloo.ca/vision-image-processing-lab/sites/ca.vision-image-processing-lab/files/resize/styles/body-500px-wide/public/uploads/images/viplogo_0-300x177.png
     alt: "VIP Lab"
@@ -74,6 +76,10 @@ sponsors:
     image_path: assets/images/darwinai_logo.png
     alt: "DarwinAI"
     title: "DarwinAI"
+  - url: https://mychirp.com/
+    image_path: assets/images/Chirp_Logo_Horizontal_Black.png
+    alt: "Chirp"
+    title: "chirp"
 ---
 
 {% include feature_row_text id="intro" %}
@@ -82,4 +88,11 @@ sponsors:
 
 <h1> Sponsors </h1>
 
-{% include gallery id="sponsors" %}
+<h2>Platinum</h2>
+{% include gallery id="sponsors-plat" %}
+
+<h2>Gold</h2>
+{% include gallery id="sponsors-gold" %}
+
+<h2>Silver</h2>
+{% include gallery id="sponsors-silver" %}
