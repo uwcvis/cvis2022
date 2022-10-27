@@ -2,6 +2,10 @@
 title: Industrial Showcases
 permalink: /industrial-showcase
 gallery:
+  - url: https://appliedbrainresearch.com/
+    image_path: assets/images/ABR.png
+    alt: "appliedbrainresearch"
+    title: "appliedbrainresearch"
   - url: https://uwaterloo.ca/artificial-intelligence-institute/
     image_path: assets/images/waterlooai_logo.png
     alt: "WaterlooAI"
