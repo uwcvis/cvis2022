@@ -36,7 +36,7 @@ keynotes:
       name: Dr. Gavriel State
       description: "Senior Director for Simulation and AI at NVIDIA"
       bio:
-        "Gavriel State is a Senior Director for Simulation and AI at NVIDIA, based in Toronto, where he leads efforts involving applications of AI technology to simulation systems and vice versa. This includes work on synthetic data generation through the Omniverse Replicator system, reinforcement learning and sim-to-real robotics transfer with Isaac Gym and Isaac Sim, as well as supporting the development of 3D reconstruction technologies.
+        "Gavriel State is a Senior Director for Simulation and AI at NVIDIA, based in Toronto, where he leads efforts involving applications of AI technology to simulation systems and vice versa. This includes work on synthetic data generation through the [Omniverse Replicator system](https://developer.nvidia.com/nvidia-omniverse-platform/replicator), reinforcement learning and [sim-to-real robotics transfer](https://dextreme.org/) with [Isaac Gym](https://developer.nvidia.com/isaac-gym) and [Isaac Sim](https://developer.nvidia.com/isaac-sim), as well as supporting the development of 3D reconstruction technologies.
 
 
         Previously, Gavriel founded TransGaming Inc, and spent 15 years focused on real-time 3D rendering, pioneering the use of 3D API portability approaches for cross platform gaming with the WINE Windows compatibility environment, leading efforts to support WebGL in Google’s Chrome browser through ANGLE, and managing work on the SwiftShader software 3D renderer.
