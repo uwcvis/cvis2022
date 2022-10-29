@@ -27,13 +27,13 @@ keynotes:
 
 
         Dr. Lungren is also a top rated instructor on Coursera where his AI in Healthcare course designed especially for learners with non-technical backgrounds has been completed by more than 10k students around the world - enrollment is open now: [https://www.coursera.org/learn/fundamental-machine-learning-healthcare](https://www.coursera.org/learn/fundamental-machine-learning-healthcare)"
-  - title: Dr. Gavriel State
+  - title: Gavriel State
     time:
     url:
     image: assets/images/Gavriel_State.jpeg
     abstract:
     author:
-      name: Dr. Gavriel State
+      name: Gavriel State
       description: "Senior Director for Simulation and AI at NVIDIA"
       bio:
         "Gavriel State is a Senior Director for Simulation and AI at NVIDIA, based in Toronto, where he leads efforts involving applications of AI technology to simulation systems and vice versa. This includes work on synthetic data generation through the [Omniverse Replicator system](https://developer.nvidia.com/nvidia-omniverse-platform/replicator), reinforcement learning and [sim-to-real robotics transfer](https://dextreme.org/) with [Isaac Gym](https://developer.nvidia.com/isaac-gym) and [Isaac Sim](https://developer.nvidia.com/isaac-sim), as well as supporting the development of 3D reconstruction technologies.
