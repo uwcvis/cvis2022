@@ -43,6 +43,16 @@ keynotes:
         
 
         Gavriel is a graduate of the University of Waterloo’s Systems Design Engineering program."
+  - title: Physical Knowledge-Informed Learning Adaptation for Internet-of-Things
+    time:
+    url: 
+    image: assets/images/pan_shijia_190925-1_1.jpg
+    abstract: "The number of everyday Internet-of-Things (IoT) devices is projected to grow to the billions in the coming decade, which enables various smart building applications. These applications, especially in-home long-term occupant monitoring, rely on the emerging non-intrusive sensing techniques. The acquired IoT sensing data are often of varying data efficiency/quality due to the system and/or deployment constraints, and sensing data distributions can change significantly under different sensing conditions. Therefore, from the data/learning perspective, accurate information learning through pure data-driven approaches requires a large amount of labeled data, which is costly and difficult to obtain in real-world applications. We address these challenges by combining physical and data-driven knowledge to reduce label data needed via physical knowledge-guided model transfer. In this talk, we use structural vibration-based occupant sensing applications to evaluate our model transfer schemes."
+    author:
+      name: Dr. Shijia Pan
+      description: University of California Merced
+      bio:
+        "Dr. Shijia Pan is an Assistant Professor at the University of California Merced. She received her bachelor’s degree in Computer Science and Technology from the University of Science and Technology of China and her Ph.D. degree in Electrical and Computer Engineering from Carnegie Mellon University. Her research interests include cyber-physical sensing systems (CPS), multimodal learning for CPS/IoT, and ubiquitous computing. She worked in multiple disciplines and focused on indoor human information acquisition through ambient sensing. She has published in both top-tier Computer Science ACM/IEEE conferences and high-impact Civil Engineering journals. She received Rising Stars in EECS, Nick G. Vlahakis Graduate Fellowship, Google Anita Borg Scholarship, Best Paper Awards (IoTDI, ASME SHM/NDE, HASCA), Best Poster Awards (SenSys, IPSN), Best Demo Award (Ubicomp, BuildSys), Best Presentation Award (SenSys Doctoral Colloquium), and Audience Choice Award (BuildSys) from ACM/IEEE conferences."
   - title: Dr. Zhou Zhang
     time: 
     url: 
@@ -69,7 +79,7 @@ keynotes:
 
 {% if keynote.url %} <sub> {{keynote.url}}</sub> {% endif %}
 
-{% if keynoe.abstract %}
+{% if keynote.abstract %}
 **Abstract:** 
 {{keynote.abstract}}
 {% endif %}

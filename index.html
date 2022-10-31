@@ -86,13 +86,30 @@ sponsors-silver:
 
 {% include feature_row_text id="important_dates" %}
 
-<h1> Sponsors </h1>
 
-<h2>Platinum</h2>
-{% include gallery id="sponsors-plat" %}
+<div class="feature__wrapper">
+  <div class="feature__item--center" style="text-align: left">
+    <div class="archive__item-body">
+      <h1> Sponsors </h1>
+      <h2 class="archive__item-title">Platinum</h2>
 
-<h2>Gold</h2>
-{% include gallery id="sponsors-gold" %}
+      <div class="archive__item-excerpt">
+        {% include gallery id="sponsors-plat" class="align-center"%}
+      </div>
 
-<h2>Silver</h2>
-{% include gallery id="sponsors-silver" %}
+      <h2 class="archive__item-title">Gold</h2>
+
+      <div class="archive__item-excerpt">
+        {% include gallery id="sponsors-gold"  class=archive__item-body %}
+      </div>
+
+      <h2 class="archive__item-title">Silver</h2>
+
+      <div class="archive__item-excerpt">
+        {% include gallery id="sponsors-silver"  class=archive__item-body %}
+      </div>
+    </div>
+  </div>
+</div>
+
+
