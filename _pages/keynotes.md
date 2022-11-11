@@ -17,15 +17,15 @@ keynotes:
       name: Dr. Matthew Lungren
       description: "Chief Medical Information Officer, Nuance Communications"
       bio: 
-        "Dr. Lungren is Chief Medical Information Officer at Nuance Communications, a Microsoft Company. As a physician and clinical machine learning researcher, he maintains a part-time interventional radiology practice at UCSF while also serving as adjunct faculty for other leading academic medical centers including Stanford and Duke. 
-
-
+        "Dr. Lungren is Chief Medical Information Officer at Nuance Communications, a Microsoft Company. As a physician and clinical machine learning researcher, he maintains a part-time interventional radiology practice at UCSF while also serving as adjunct faculty for other leading academic medical centers including Stanford and Duke.
+ 
+ 
         Prior to joining Microsoft, Dr Lungren was an interventional radiologist and research faculty at Stanford University Medical School where he led the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI). More recently he served as Principal for Clinical AI/ML at Amazon Web Services in World Wide Public Sector Healthcare, focusing on business development for clinical machine learning technologies in the public cloud.
-
-
+ 
+ 
         His scientific work has led to more than 100 publications, including work on multi-modal data fusion models for healthcare applications, new computer vision and natural language processing approaches for healthcare specific domains, opportunistic screening with machine learning for public health applications, open medical data as public good, and prospective clinical trials for clinical AI translation. He has served as advisor for early stage startups and large fortune-500 companies on healthcare AI technology development and go-to-market strategy. Dr. Lungren is frequently featured in national news outlets such as NPR, Vice News, Scientific American, and he regularly speaks at national and international scientific meetings on the topic of AI in healthcare. 
-
-
+ 
+ 
         Dr. Lungren is also a top rated instructor on Coursera where his AI in Healthcare course designed especially for learners with non-technical backgrounds has been completed by more than 10k students around the world - enrollment is open now: [https://www.coursera.org/learn/fundamental-machine-learning-healthcare](https://www.coursera.org/learn/fundamental-machine-learning-healthcare)"
   - title: Gavriel State
     time:
