@@ -22,6 +22,10 @@ gallery:
     image_path: assets/images/Miovision.png
     alt: "miovision"
     title: "miovision"
+  - url: https://avidbots.com/
+    image_path: assets/images/avidbots.svg
+    alt: "Avidbots"
+    title: "Avidbots"
 ---
 
 {% include gallery %}
