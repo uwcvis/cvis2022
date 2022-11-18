@@ -53,11 +53,14 @@ keynotes:
       description: University of California Merced
       bio:
         "Dr. Shijia Pan is an Assistant Professor at the University of California Merced. She received her bachelor’s degree in Computer Science and Technology from the University of Science and Technology of China and her Ph.D. degree in Electrical and Computer Engineering from Carnegie Mellon University. Her research interests include cyber-physical sensing systems (CPS), multimodal learning for CPS/IoT, and ubiquitous computing. She worked in multiple disciplines and focused on indoor human information acquisition through ambient sensing. She has published in both top-tier Computer Science ACM/IEEE conferences and high-impact Civil Engineering journals. She received Rising Stars in EECS, Nick G. Vlahakis Graduate Fellowship, Google Anita Borg Scholarship, Best Paper Awards (IoTDI, ASME SHM/NDE, HASCA), Best Poster Awards (SenSys, IPSN), Best Demo Award (Ubicomp, BuildSys), Best Presentation Award (SenSys Doctoral Colloquium), and Audience Choice Award (BuildSys) from ACM/IEEE conferences."
-  - title: Dr. Zhou Zhang
+  - title: Combine remote sensing and machine learning in support of digital agriculture
     time: 
     url: 
     image: https://digitalag.bse.wisc.edu/wp-content/uploads/sites/1003/2019/03/Zhang-3-300x300.png
     abstract: 
+      "
+      Maintaining and improving the productivity and resiliency of our agricultural and food systems, while simultaneously mitigating and adapting to climate change in the face of an uncertain future and increasingly competitive uses of limited resources, represents a grand challenge of our time. My research, as an interdisciplinary study, endeavors to address this challenge by combining advanced sensing systems with computational engineering technologies. In this presentation, I will introduce our lab’s recent accomplishments and ongoing research work include 1) Combining satellite remote sensing with deep learning/machine learning for large-scale crop monitoring and management decision making; 2) Combining unmanned aerial vehicles (UAVs) based high-resolution images with deep learning/machine learning for fine-scale high-throughput plant phenotyping and other precision agricultural applications; and 3) Cyber-infrastructure tools development for agricultural decision making. 
+      "
     author:
       name: Dr. Zhou Zhang
       description:
