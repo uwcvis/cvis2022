@@ -11,9 +11,12 @@ toc: true
 
 # Technical Program
 
-
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf">
+viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf"> 
+
+<br>
+
+[Download PDF](assets/Schedule-cvis2022.pdf){: .btn .btn--inverse}
 
 ---
 
