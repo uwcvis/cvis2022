@@ -9,6 +9,14 @@ permalink: /program
 toc: true
 ---
 
+# Technical Program
+
+
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf" width="500" height="375">
+
+---
+
 # CVIS 2022 Paper Awards
 
 BEST AI PAPER AWARD
@@ -34,7 +42,3 @@ HONORABLE MENTION BEST VISION PAPER AWARD
 HONORABLE MENTION BEST IMAGING PAPER AWARD
 
 ----
-
-# Technical Program
-
-{% include table.html data="program" %}
