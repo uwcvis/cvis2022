@@ -13,7 +13,7 @@ toc: true
 
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf" width="500" height="375">
+viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf">
 
 ---
 
