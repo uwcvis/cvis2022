@@ -27,7 +27,7 @@ keynotes:
  
  
         Dr. Lungren is also a top rated instructor on Coursera where his AI in Healthcare course designed especially for learners with non-technical backgrounds has been completed by more than 10k students around the world - enrollment is open now: [https://www.coursera.org/learn/fundamental-machine-learning-healthcare](https://www.coursera.org/learn/fundamental-machine-learning-healthcare)"
-  - title: Gavriel State
+  - title: Synthetic Data for Computer Vision and Agile Robotic Manipulation
     time:
     url:
     image: assets/images/Gavriel_State.jpeg
