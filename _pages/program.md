@@ -19,6 +19,10 @@ viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf
 [Download PDF](assets/Schedule-cvis2022.pdf){: .btn .btn--inverse}
 
 ---
+Day1, Dec 6 is in hybrid mode.
+All attendees and presenters can join the meeting with the zoom meetings in the pdf or show up in person in E7 2357. 
+
+Day2, Dec 7 is in person. All sessions are in DC library 1301+1302.
 
 # CVIS 2022 Paper Awards
 
