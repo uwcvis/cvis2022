@@ -8,7 +8,7 @@ header:
 permalink: /keynotes
 toc: true
 keynotes:
-  - title: Dr. Matthew Lungren
+  - title: Post deployment considerations for AI in Radiology
     time:
     url:
     image: assets/images/matthew_lungren.jpeg
