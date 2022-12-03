@@ -12,7 +12,7 @@ toc: true
 # Technical Program
 
 Day1, Dec 6 is in hybrid mode.
-All attendees and presenters can join the meeting with the zoom meetings in the pdf or show up in person in E7 2357. 
+All attendees and presenters can join the conference with the zoom meeting IDs in the pdf or show up in person in E7 2357. You are encouraged to come and meet people in person.
 
 Day2, Dec 7 is in person. All sessions are in DC library 1301+1302.
 
