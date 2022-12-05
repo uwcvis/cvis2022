@@ -25,6 +25,17 @@ viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf
 
 ---
 
+# Map
+
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://cvis2022.github.io/assets/067E7_02FLR.pdf"> 
+
+<br>
+
+[Download map](assets/067E7_02FLR.pdf){: .btn .btn--inverse}
+
+---
+
 # CVIS 2022 Paper Awards
 
 BEST AI PAPER AWARD

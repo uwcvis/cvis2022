@@ -14,9 +14,35 @@ Conference Chairs:
 - Yuhao Chen, University of Waterloo
                               
 Organizing Committee:
-- Emily Zeng, University of Waterloo (Website lead)
-- Saeejith Nair, University of Waterloo (Website lead)
+- Emily Zhixuan Zeng, University of Waterloo (Website lead)
+- Saeejith Nair, University of Waterloo
+- Yuan Fang
+- Chi-en Amy Tai
+- Harish Prakash
+- Robbie Meyer
+- Jia Cheng (Jason) Shang
+- Kai Ma
+- Bavesh Balaji
 
+
+Technical Program Committee:
+- Dawei		Liang		
+- Hanxiang		Hao	
+- János		Horváth		
+- Jason	L	Deglint		
+- Jiangpeng		He	
+- Jose	D	Bermudez Castro	
+- Kanav		Vats		
+- Li		Sun		
+- Michael		Jamieson	
+- Parthipan		Siva	
+- Paul		Marchwica	
+- Runyu		Mao		
+- Saeejith		Nair	
+- Weichen		Xu		
+- Xuye		Liu		
+- Yuhao		Chen		
+- Ziyue		Xiang		
                   
 Thanks to the Past Committee Members：                         
 [https://cvis2021.weebly.com/organizing-committee.html](https://cvis2021.weebly.com/organizing-committee.html)
