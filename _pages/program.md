@@ -16,6 +16,18 @@ All attendees and presenters can join the conference with the zoom meeting IDs i
 
 Day2, Dec 7 is in person. All sessions are in DC library 1301+1302.
 
+
+Zoom link for Dec 7:
+
+Topic: CVIS 2022 -- Dec7 
+Time: Dec 7, 2022 01:00 PM Eastern Time (US and Canada)
+
+Join Zoom Meeting
+https://uwaterloo.zoom.us/j/99158142679?pwd=czMrOGI5NTZyTExpbzNuTGNQSmdqZz09
+
+Meeting ID: 991 5814 2679
+Passcode: 508544
+
 <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf"> 
 
