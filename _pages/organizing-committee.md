@@ -14,18 +14,20 @@ Conference Chairs:
 - Yuhao Chen, University of Waterloo
                               
 Organizing Committee:
-- Emily Zhixuan Zeng, University of Waterloo (Website lead)
-- Saeejith Nair, University of Waterloo
-- Xinwei Chen
-- Kimathi Kaai
-- Robbie Meyer
-- Kai Ma
-- Harish Prakash
-- Jia Cheng (Jason) Shang
-- Bavesh Balaji
-- Chi-en Amy Tai
-- Kevin Hu
-- Celilia Lee
+- Emily Zhixuan Zeng (Website lead)
+- Xinwei Chen (Catering manager)
+- Kimathi Kaai (Room planner)
+- Robbie Meyer (Polo-shirt designer)
+- Kai Ma (Posters designer)
+- Harish Prakash (Purchasing lead)
+- Jia Cheng (Jason) Shang (Printing manager)
+- Bavesh Balaji (Room planner)
+- Saeejith Nair (Presentation chair)
+- Celilia Lee (Presentation chair)
+- Chi-en Amy Tai (Schedule planner)
+- Kevin Hu (Purchasing lead)
+- Shaozhong Li (Photography lead)
+
 
 
 
