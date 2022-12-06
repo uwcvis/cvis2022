@@ -16,13 +16,17 @@ Conference Chairs:
 Organizing Committee:
 - Emily Zhixuan Zeng, University of Waterloo (Website lead)
 - Saeejith Nair, University of Waterloo
-- Yuan Fang
-- Chi-en Amy Tai
-- Harish Prakash
+- Xinwei Chen
+- Kimathi Kaai
 - Robbie Meyer
-- Jia Cheng (Jason) Shang
 - Kai Ma
+- Harish Prakash
+- Jia Cheng (Jason) Shang
 - Bavesh Balaji
+- Chi-en Amy Tai
+- Kevin Hu
+- Celilia Lee
+
 
 
 Technical Program Committee:
