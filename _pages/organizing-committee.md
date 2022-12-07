@@ -27,6 +27,7 @@ Organizing Committee:
 - Chi-en Amy Tai (Schedule planner)
 - Kevin Hu (Purchasing lead)
 - Shaozhong Li (Photography lead)
+- Javier Noa (Communication)
 
 
 
